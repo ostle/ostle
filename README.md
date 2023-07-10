@@ -1,16 +1,26 @@
-Hello there! 👋 
-About Me
-I'm a Full Stack Developer with a passion for crafting exceptional web experiences. I thrive in collaborative environments and take great pride in turning ideas into reality with enthusiasm.
+<style>
+  h1 {
+    text-align: center;
+  }
 
-Why Choose Me?
+  p {
+    text-align: justify;
+  }
+</style>
 
-When you work with me, you not only gain access to my excellent technical skills, but you also benefit from my strong leadership abilities, teamwork mindset, problem-solving capabilities, and a genuine eagerness to learn from others. I am committed to continually strengthening and expanding my skill set to deliver the best possible outcomes.
+<h1>Acerca de mí</h1>
 
-Experience
+<p>¡Hola! 👋 Soy un Desarrollador Full Stack con pasión por crear experiencias web excepcionales. Me desenvuelvo mejor en entornos colaborativos y me enorgullezco de convertir ideas en realidad con entusiasmo.</p>
 
-One of my most notable experiences was my time as a Full Stack Development student at Henry, where I honed my foundations in Back-end and Front-end development. I became proficient in JavaScript, leveraging its libraries and frameworks to build dynamic and robust web applications.
+<h3>¿Por qué elegirme?</h3>
 
-If you want to learn more about my work or have any questions, don't hesitate to reach out! I'm always excited to connect and collaborate on new projects.
+<p>Al trabajar conmigo, no solo obtendrás excelentes habilidades técnicas, sino que también te beneficiarás de mi capacidad de liderazgo, mentalidad de trabajo en equipo, habilidades para resolver problemas y un auténtico deseo de aprender de los demás. Me comprometo a fortalecer y ampliar constantemente mis habilidades para ofrecer los mejores resultados posibles.</p>
+
+<h3>Experiencia</h3>
+
+<p>Una de mis experiencias más destacadas fue mi tiempo como estudiante de Desarrollo Full Stack en Henry, donde perfeccioné mis bases en desarrollo de Back-end y Front-end. Me volví experto en JavaScript, aprovechando sus bibliotecas y frameworks para construir aplicaciones web dinámicas y robustas.</p>
+
+<p>Si deseas conocer más sobre mi trabajo o tienes alguna pregunta, ¡no dudes en <a href="mailto:leoostrower@gmail.com">contactarme</a>! Siempre estoy emocionado de conectar y colaborar en nuevos proyectos.</p>
 
 <!--
 **ostle/ostle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
