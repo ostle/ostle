@@ -10,7 +10,7 @@
 
 <p style="text-align: justify;">Una de mis experiencias más destacadas fue mi tiempo como estudiante de Desarrollo Full Stack en Henry, donde perfeccioné mis bases en desarrollo de Back-end y Front-end. Me volví experto en JavaScript, aprovechando sus bibliotecas y frameworks para construir aplicaciones web dinámicas y robustas.</p>
 
-<p style="text-align: justify;">Si deseas conocer más sobre mi trabajo o tienes alguna pregunta, ¡no dudes en <a href="mailto:leoostrower@gmail.com">contactarme</a>! Siempre estoy emocionado de conectar y colaborar en nuevos proyectos.</p>
+<p style="text-align: justify;">Si queres conocer más sobre mi trabajo o tenes alguna pregunta, ¡no dudes en <a href="mailto:leoostrower@gmail.com">contactarme</a>! Siempre estoy dispuesto a conectar y colaborar en nuevos proyectos.</p>
 
 <!--
 **ostle/ostle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
